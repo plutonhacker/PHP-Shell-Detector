@@ -41,7 +41,7 @@ To activate Web Shell Detector:
 Demo
 ----
 
-    http://www.emposha.com/demo/shelldetect/
+    https://cyberhelper.tech/demo/shelldetect/
 
 Options
 -------
